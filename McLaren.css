@@ -1,0 +1,62 @@
+body
+{
+    background-color: black;
+    color: white
+}
+
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1, h2, h3
+{
+    text-align: center;
+    font-size: 30pt
+}
+
+p
+{
+    text-align: justify;
+    font-size: 20pt
+}
+
+ul
+{
+    text-align: justify;
+    font-size: 20pt
+}
+
+.red-center
+{
+    text-align: center;
+    color: red;
+}
+
+.yellow-left
+{
+    text-align: left;
+    color: yellow;
+}
+
+.green-left
+{
+    text-align: left;
+    color: green;
+}
+
+img
+{
+    border-color: white;
+    border-width: medium;
+    border-style: solid;
+    padding: 1%;
+    margin: 2%;
+}
+/*This section displays the image configurations*/
+
+.yellow-center
+{
+    text-align: center;
+    color: yellow; 
+}

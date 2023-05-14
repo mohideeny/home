@@ -1,0 +1,47 @@
+.red-center
+{
+    text-align: center;
+    color: red;
+}
+
+body
+{
+    background-color: black;
+    color: white
+}
+
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1, h2, h3, h4
+{
+    font-size: 30pt
+}
+
+p
+{
+    text-align: justify;
+    font-size: 20pt
+}
+
+img
+{
+    border-color: white;
+    border-width: medium;
+    border-style: solid;
+    padding: 1%;
+    margin: 2%;
+}
+
+.yellow-left
+{
+    text-align: justify;
+    color: yellow;
+}
+
+#VideoCourtesyof
+{
+    color: green;
+}
